@@ -2,12 +2,12 @@
 <!--START_SECTION:Muni-->
 
 ```Javascript
-From: 14 September 2024 - To: 16 September 2024
+From: 14 September 2024 - To: 17 September 2024
 
-Total Time: 1 hr 46 mins
+Total Time: 6 hrs 47 mins
 
-JavaScript   1 hr 40 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   94.59 %
-CSS          5 mins          >------------------------   05.41 %
+JavaScript   6 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.21 %
+CSS          7 mins          -------------------------   01.79 %
 ```
 
 <!--END_SECTION:Muni-->
