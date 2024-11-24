@@ -2,7 +2,7 @@
 <!--START_SECTION:Muni-->
 
 ```Javascript
-From: 14 September 2024 - To: 21 November 2024
+From: 14 September 2024 - To: 22 November 2024
 
 Total Time: 97 hrs 23 mins
 
