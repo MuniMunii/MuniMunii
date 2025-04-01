@@ -2,15 +2,15 @@
 <!--START_SECTION:Muni-->
 
 ```Javascript
-From: 14 September 2024 - To: 29 March 2025
+From: 14 September 2024 - To: 31 March 2025
 
-Total Time: 276 hrs 9 mins
+Total Time: 282 hrs 58 mins
 
-JavaScript    134 hrs 20 mins >>>>>>>>>>>>-------------   48.60 %
-TypeScript    117 hrs 8 mins  >>>>>>>>>>>--------------   42.38 %
-CSS           10 hrs 55 mins  >------------------------   03.95 %
-HTML          6 hrs 16 mins   >------------------------   02.27 %
-PHP           2 hrs 2 mins    -------------------------   00.74 %
+JavaScript    135 hrs 4 mins  >>>>>>>>>>>>-------------   47.69 %
+TypeScript    123 hrs 9 mins  >>>>>>>>>>>--------------   43.48 %
+CSS           11 hrs          >------------------------   03.89 %
+HTML          6 hrs 16 mins   >------------------------   02.21 %
+PHP           2 hrs 2 mins    -------------------------   00.72 %
 ```
 
 <!--END_SECTION:Muni-->
