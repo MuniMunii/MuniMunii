@@ -20,4 +20,4 @@ Markdown      2 hrs 23 mins   -------------------------   00.78 %
 * [LinkedIn](https://www.linkedin.com/in/ramzi-akbar-ramadhan-b8b05a243/)
 * [Personal Website](https://www.muniporto.my.id/)
 ### Technology i often use
-* ![Technology List](assets/techlist.png)
+![Technology List](assets/techlist.png)
