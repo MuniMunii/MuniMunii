@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hello my name is Ramzi Akbar Ramadhan!\
-Btw my Online Persona name is Muni and i have a bad sense of naming thing so i just named all of my project with Muni in the first word
+Btw my Online Persona name is Muni and i have bad sense of naming thing so i just named all of my project with Muni in the first word
 <!--START_SECTION:Muni-->
 
 ```Javascript
