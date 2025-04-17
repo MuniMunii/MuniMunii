@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hello my name is Ramzi Akbar Ramadhan!\
-Btw my Online Persona name is Muni and i have a bad sense of naming thing so i just named all of my project with Muni in the first word\
+Btw my Online Persona name is Muni and i have a bad sense of naming thing so i just named all of my project with Muni in the first word
 <!--START_SECTION:Muni-->
 
 ```Javascript
@@ -20,4 +20,4 @@ Markdown      2 hrs 23 mins   -------------------------   00.78 %
 * [LinkedIn](https://www.linkedin.com/in/ramzi-akbar-ramadhan-b8b05a243/)
 * [Personal Website](https://www.muniporto.my.id/)
 ### Technology i often use
-* [Technology List](assets/techlist.png)
+* ![Technology List](assets/techlist.png)
