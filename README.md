@@ -4,12 +4,12 @@ Btw my Online Persona name is Muni and i have bad sense of naming thing so i jus
 <!--START_SECTION:Muni-->
 
 ```Javascript
-From: 14 September 2024 - To: 03 December 2025
+From: 14 September 2024 - To: 04 December 2025
 
-Total Time: 653 hrs 40 mins
+Total Time: 653 hrs 46 mins
 
-TypeScript      441 hrs 25 mins >>>>>>>>>>>>>>>>>--------   67.46 %
-JavaScript      150 hrs 48 mins >>>>>>-------------------   23.05 %
+TypeScript      441 hrs 29 mins >>>>>>>>>>>>>>>>>--------   67.46 %
+JavaScript      150 hrs 48 mins >>>>>>-------------------   23.04 %
 CSS             20 hrs 24 mins  >------------------------   03.12 %
 Vue.js          8 hrs 15 mins   -------------------------   01.26 %
 ```
