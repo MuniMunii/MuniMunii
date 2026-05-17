@@ -4,7 +4,7 @@ Btw my Online Persona name is Muni and i have bad sense of naming thing so i jus
 <!--START_SECTION:Muni-->
 
 ```Javascript
-From: 14 September 2024 - To: 14 May 2026
+From: 14 September 2024 - To: 15 May 2026
 
 Total Time: 802 hrs 33 mins
 
