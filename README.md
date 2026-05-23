@@ -4,13 +4,13 @@ Btw my Online Persona name is Muni and i have bad sense of naming thing so i jus
 <!--START_SECTION:Muni-->
 
 ```Javascript
-From: 14 September 2024 - To: 21 May 2026
+From: 14 September 2024 - To: 22 May 2026
 
-Total Time: 809 hrs 55 mins
+Total Time: 811 hrs 47 mins
 
-TypeScript      585 hrs 44 mins       >>>>>>>>>>>>>>>>>>-------   72.26 %
-JavaScript      152 hrs 6 mins        >>>>>--------------------   18.76 %
-CSS             20 hrs 44 mins        >------------------------   02.56 %
+TypeScript      585 hrs 44 mins       >>>>>>>>>>>>>>>>>>-------   72.09 %
+JavaScript      152 hrs 6 mins        >>>>>--------------------   18.72 %
+CSS             20 hrs 44 mins        >------------------------   02.55 %
 HTML            8 hrs 17 mins         -------------------------   01.02 %
 ```
 
